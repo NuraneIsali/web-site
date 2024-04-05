@@ -2276,6 +2276,7 @@ section .slider-mini .slider-card p {
 .blog-body .blog-cards-box .blog-card {
   width: 30%;
   border: 0.001px solid #e5e5e5;
+  overflow: hidden;
 }
 .blog-body .blog-cards-box .blog-card:hover img {
   transform: scale(1.1);
